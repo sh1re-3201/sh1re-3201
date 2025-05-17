@@ -15,7 +15,7 @@
 </p>
 
 <p align='center'>
-  <a href="https://www.linkedin.com/in/anugrah-frumensius-gansalangi-756564332/?originalSubdomain=id">
+  <a href="https://www.linkedin.com/in/anugrah-gansalangi/?originalSubdomain=id">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
