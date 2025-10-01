@@ -26,6 +26,9 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=sh1re-3201&show_icons=true&count_private=true&theme=merko" width="400"></a>
 </p>
 
+<div align="center">
+<img src="https://media.tenor.com/l6372StevF8AAAAj/megumin-dance.gif">
+</div>
 
 <!-- ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
