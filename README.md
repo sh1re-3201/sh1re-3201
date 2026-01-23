@@ -26,7 +26,9 @@
   <img src="https://media.tenor.com/l6372StevF8AAAAj/megumin-dance.gif">
   <img src="https://media.tenor.com/-aOA33tGWv0AAAAi/kirby-dance.gif">
 </p>
-<img src="https://media1.tenor.com/m/EmnkbYXe1LQAAAAC/kirby-kirby-dance.gif">
+<p  align='center'>
+  <img src="https://media1.tenor.com/m/EmnkbYXe1LQAAAAC/kirby-kirby-dance.gif">
+</p>
 
 
 <!-- ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
