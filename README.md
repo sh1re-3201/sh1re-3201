@@ -22,7 +22,7 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=sh1re-3201&show_icons=true&theme=dark#gh-dark-mode-only" width="400"></a>
+  <!-- <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=sh1re-3201&show_icons=true&theme=dark#gh-dark-mode-only" width="400"></a> -->
   <img src="https://media.tenor.com/l6372StevF8AAAAj/megumin-dance.gif">
   <img src="https://media.tenor.com/-aOA33tGWv0AAAAi/kirby-dance.gif">
 </p>
