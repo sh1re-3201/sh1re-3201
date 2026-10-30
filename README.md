@@ -12,7 +12,7 @@
 </h1>
 
 <p align='center'>
-  An informatics student from Indonesia.
+  An informatics student from Indonesia interested in network engineering.
 </p>
 
 <p align='center'>
@@ -20,6 +20,8 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=sh1re-3201&include_all_commits=true&theme=tokyonight)](https://github-stats-extended.vercel.app/api?username=anuraghazra&include_all_commits=true&theme=tokyonight)
 
 <p align='center'>
   <!-- <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=sh1re-3201&show_icons=true&theme=dark#gh-dark-mode-only" width="400"></a> -->
